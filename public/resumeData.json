@@ -16,29 +16,9 @@
     "resumedownload":"pdf/EmreCosar.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/emrecosar",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com/cosaremre",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"https://plus.google.com/+EmreCosar",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/emrecosar/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/emrecosar",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -46,14 +26,28 @@
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com/emre_cosar",
-        "className":"fa fa-skype"
+        "name":"twitter",
+        "url":"http://twitter.com/cosaremre",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/emrecosar",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/+EmreCosar",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/emrecosar",
+        "className":"fa fa-facebook"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Ege University",
@@ -80,52 +74,6 @@
         "title":"Software Engineer Intern",
         "years":"July 2011 - September 2011",
         "description":"Worked as an intern at Netz in Poland and 3 month working with CRM based company, NETZ. My first business experience was about java based desktop applications and three different Android applications about viewing CRM document and tracking customer-cargo locations."
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
