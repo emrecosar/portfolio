@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Emre Cosar",
-    "occupation":"Senior Software Developer",
-    "description":"5+ years experience about software development with interest in many aspects of building software.",
+    "occupation":"Software Engineer",
+    "description":"5+ years experience about software engineering with interest in many aspects of building software.",
     "image":"profile-picture.png",
-    "bio": "5+ experience about software development with interest in many aspects of building software. Senior Software Engineer in Yapı Kredi Technology. Currently, working about micro-service architectures with React, Spring Boot and Spring Cloud using the TDD approach and CI/CD. Formerly full stack web and mobile(Android / iOS and backend) engineer. Strong and eager about Java and JavaScript. Clean coder and open-source committer! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
+    "bio": "5+ experience about software engineering with interest in many aspects of building software. Senior Software Engineer in Yapı Kredi Technology. Currently, working about micro-service architectures with React, Spring Boot and Spring Cloud using the TDD approach and CI/CD. Formerly full stack web and mobile(Android / iOS and backend) engineer. Strong and eager about Java and JavaScript. Clean coder and open-source committer! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "emrecosarr@gmail.com",
     "phone": "+90 505 739 7695",
@@ -22,17 +22,17 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/emrecosar",
+        "url":"https://github.com/emrecosar",
         "className":"fa fa-github"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com/cosaremre",
+        "url":"https://twitter.com/cosaremre",
         "className":"fa fa-twitter"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/emrecosar",
+        "url":"https://instagram.com/emrecosar",
         "className":"fa fa-instagram"
       },
       {
@@ -42,7 +42,7 @@
       },
       {
         "name":"facebook",
-        "url":"http://facebook.com/emrecosar",
+        "url":"https://facebook.com/emrecosar",
         "className":"fa fa-facebook"
       }
     ]
