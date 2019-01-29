@@ -8,8 +8,6 @@ class About extends Component {
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var city = this.props.data.address.city;
-      var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
@@ -25,20 +23,18 @@ class About extends Component {
 
             <p>{bio}</p>
             <div className="row">
-               <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{name}</span><br />
-						   <span>{city}, {zip}
-                </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
-               </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
+              <div className="columns contact-details">
+                <h2>Contact Details</h2>
+                <p className="address">
+						      <span>{name}</span><br />
+						      <span>{city}</span><br />
+						      <span>{email}</span>
+                </p>
+              </div>
+              <div className="columns download">
+                <p>
+                  <a href={resumeDownload} className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
+                </p>
                </div>
             </div>
          </div>
