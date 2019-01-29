@@ -2,14 +2,12 @@
   "main": {
     "name":"Emre Cosar",
     "occupation":"Software Engineer",
-    "description":"5+ years experience about software engineering with interest in many aspects of building software.",
+    "description":"6+ experience about software engineering with interest in playing and creating better software solutions.",
     "image":"profile-picture.jpg",
-    "bio": "5+ experience about software engineering with interest in many aspects of building software. Senior Software Engineer in Yapi Kredi Technology. Currently, working about micro-service architectures with React, Spring Boot and Spring Cloud using the TDD approach and CI/CD. Formerly full stack web and mobile(Android / iOS and backend) engineer. Strong and eager about Java and JavaScript. Clean coder and open-source committer! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
+    "bio": "6+ experience about software engineering with interest in playing and creating better software solutions. Senior Software Engineer in Elsevier. Currently helping researchers and institutions with possibly the best and fastest solutions in the market to improve open science and healthcare. Hands on experience about Spring Boot, Angular, React and AWS using the TDD approach with CI/CD pipelines. Previously full stack web and mobile(Android / iOS and backend) engineer. Strong and eager about Java and JavaScript.\nClean coder and open-source committer! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.\nBiking(Trek4300), Running(Vomero10) and Swimming!",
     "email": "emrecosarr@gmail.com",
-    "phone": "+90 505 739 7695",
     "address":{
-      "city":"Istanbul",
-      "zip": "34752"
+      "city":"Amsterdam"
     },
     "resumedownload":"https://github.com/emrecosar/portfolio/raw/master/public/pdf/EmreCosar.pdf",
     "social":[
@@ -56,22 +54,32 @@
     ],
     "work":[
       {
-        "company":"Yapi Kredi Technology",
+        "company":"Elsevier",
+        "location":"Amsterdam",
         "title":"Senior Software Engineer",
-        "years":"December 2016 - Present",
-        "description":"As a Senior Software Engineer, developing new technologies and frameworks for FinTech Ecosystem. Currently working on micro services architectures with Spring Boot and Spring Cloud. Using TDD approach for unit/integration and cloud tests. Sticks with clean code principles."
+        "years":"November 2018 - Present",
+        "description":"Helping institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity. Creating sotfware solutions mostly rely on micro-service architecture using Spring Boot and React using the TDD approach with CI/CD pipelines running on AWS environment with all kind of features from event-based transactions to dockerize applications. Stick with self-managable teams and devops culture. Excellent communication withing teams in and outside of the company."
       },
       {
-        "company":"Garanti Technology - BBVA Group",
+        "company":"Yapi Kredi Technology",
+        "location":"Istanbul",
+        "title":"Senior Software Engineer",
+        "years":"December 2016 - November 2018",
+        "description":"Engineer new technologies and frameworks for FinTech Ecosystem. Worked on mobile banking application both native Android and iOS clients, has eye-verify login option first in banking apps, and APIs. Then created micro services architectures with Spring Boot and Spring Cloud for core banking domains. Using TDD approach for unit/integration and cloud tests. Sticks with clean code principles."
+      },
+      {
+        "company":"Garanti Technology",
+        "location":"Istanbul",
         "title":"Senior Software Engineer",
         "years":"July 2012 - December 2016",
-        "description":"As a Senior Software Engineer, worked as a part of Web Technologies & Social Media Applications Department. Maintained www.garanti.com.tr public site and made a mobile version of it. Created Twitter and Facebook web applications that bank's customers use and enrolled campaigns over Facebook and twitter. Also was a part of team that created iGaranti web and mobile applications. Developed Google Glass application for iGaranti mobile application. Created new products and platforms for our customers to touch in so many ways. In every aspects of application development processes; designing the architecture, creating web and backend level."
+        "description":"Worked as a part of Web Technologies & Social Media Applications Department. Maintained www.garanti.com.tr public site and made a mobile version of it. Created Twitter and Facebook web applications that bank's customers use and enrolled campaigns over Facebook and twitter. Also was a part of team that created iGaranti(now as GarantiOne) web, facebook and mobile applications. Developed notification based Google Glass application, first in Turkey, for iGaranti mobile application. Created new products and platforms for our customers to touch in so many ways. In every aspects of application development processes; designing the architecture, creating web and backend level."
       },
       {
-        "company":"Netz",
+        "company":"NETZ Sp. o.o.",
+        "location":"Gdansk",
         "title":"Software Engineer Intern",
-        "years":"July 2011 - September 2011",
-        "description":"Worked as an software engineer intern in Gdansk/Poland for about 3 months. Working with CRM based company, Netz. My first business experience was about java based desktop applications and three different Android applications about viewing CRM document and tracking customer-cargo locations."
+        "years":"July 2011 - October 2011",
+        "description":"As an intern in Gdansk/Poland for 3 months, worked at CRM based company, Netz. First business experience was about java based desktop applications and three different Android applications about viewing CRM document and tracking customer-cargo locations."
       }
     ]
   }
