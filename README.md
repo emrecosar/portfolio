@@ -1,6 +1,10 @@
 ## Emre Cosar Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+* git clone
+* npx install -> set up environment
+* npm start -> to run locally
+* npm run deploy -> to deploy to your github pages (configure package.json 's homepage attribute!)
 
 ## Credits
 
@@ -12,6 +16,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-#### Header photo credit
-<a href="https://unsplash.com/photos/2M4XpYfDhec">Casey Horner</a>
