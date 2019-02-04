@@ -32,11 +32,6 @@
         "className":"fa fa-instagram"
       },
       {
-        "name":"google-plus",
-        "url":"https://plus.google.com/+EmreCosar",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"facebook",
         "url":"https://facebook.com/emrecosar",
         "className":"fa fa-facebook"
