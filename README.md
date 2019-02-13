@@ -8,7 +8,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * npm start -> to run locally
 * npm run deploy -> to deploy to your github pages (configure package.json's homepage attribute and SEO/DNS related URLs)
 
-### Credits
-
-#### First Impressed At
+#### First Impression From
 <a href="https://github.com/tbakerx/react-resume-template">Tim Baker's react template project</a>
