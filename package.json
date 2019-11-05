@@ -1,16 +1,16 @@
 {
   "name": "portfolio",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "homepage": "https://emrecosar.com",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "jquery": "^3.3.1",
-    "npm": "^6.1.0",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-ga": "^2.5.3",
-    "react-scripts": "1.1.4"
+    "jquery": "^3.4.1",
+    "npm": "^6.13.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-ga": "^2.7.0",
+    "react-scripts": "^3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,5 +19,17 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
