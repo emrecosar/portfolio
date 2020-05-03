@@ -5,36 +5,36 @@
     "description":"",
     "image":"profile-picture.jpg",
     "bio": "Interests in playing and creating better software solutions. Hands on experience about Spring Boot, React and AWS with the TDD approach using CI/CD. Started to career as full-stack web engineer and mobile(Android and iOS ) engineer then now go on as backend engineer. Strong and eager about Java and JavaScript. Clean coder, open-source committer and enjoys fork&try projects! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
-    "joy": "Cycling, Running and Swimming for a healthy life!",
+    "joy": "Music is everything!",
     "email": "emrecosarr@gmail.com",
     "address":{
-      "city":"@Amsterdam"
+      "city":"@ Amsterdam"
     },
-    "resumedownload":"https://github.com/emrecosar/portfolio/raw/master/public/pdf/EmreCosar.pdf",
+    "resumedownload":"//github.com/emrecosar/portfolio/raw/master/public/pdf/EmreCosar.pdf",
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/emrecosar",
+        "url":"//github.com/emrecosar",
         "className":"fa fa-github"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/emrecosar/",
+        "url":"//www.linkedin.com/in/emrecosar/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/cosaremre",
+        "url":"//twitter.com/cosaremre",
         "className":"fa fa-twitter"
       },
       {
         "name":"instagram",
-        "url":"https://instagram.com/emrecosar",
+        "url":"//instagram.com/emrecosar",
         "className":"fa fa-instagram"
       },
       {
         "name":"facebook",
-        "url":"https://facebook.com/emrecosar",
+        "url":"//facebook.com/emrecosar",
         "className":"fa fa-facebook"
       }
     ]
