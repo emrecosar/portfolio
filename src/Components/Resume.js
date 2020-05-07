@@ -18,7 +18,7 @@ class Resume extends Component {
     }
 
     return (
-      <section id="resume">
+      <section id="resume" ref={this.props.innerRef}>
 
         <div className="row work">
 
