@@ -14,7 +14,7 @@ class Header extends Component {
       }
 
       return (
-         <header id="home" ref={this.props.innerRef}>
+         <header id="home">
 
             <nav id="nav-wrap">
 
@@ -50,6 +50,7 @@ class Header extends Component {
          </header>
       );
   }
+
 }
 
 export default Header;

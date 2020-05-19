@@ -14,7 +14,7 @@ class About extends Component {
     }
 
     return (
-      <section id="about" ref={this.props.innerRef}>
+      <section id="about">
       <div className="row">
          <div className="three columns">
             <img className="profile-pic" src={profilepic} alt="Emre-Cosar-Profile" />
