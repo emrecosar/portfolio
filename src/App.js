@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import $ from 'jquery';
-import './App.css';
 import Header from './Components/Header';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Footer from './Components/Footer';
+import './App.css';
 
 class App extends Component {
 
@@ -16,17 +15,24 @@ class App extends Component {
   }
 
   getResumeData(){
-    $.ajax({
-      url: process.env.PUBLIC_URL + '/resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
+    fetch(process.env.PUBLIC_URL + '/resumeData.json')
+    .then(res => res.json())
+    .then(
+      (result) => {
+        this.setState({
+          resumeData: result
+        });
+      },
+      // Note: it's important to handle errors here
+      // instead of a catch() block so that we don't swallow
+      // exceptions from actual bugs in components.
+      (error) => {
+        console.log(error);
+        this.setState({
+          resumeData: null
+        });
       }
-    });
+    );
   }
 
   componentDidMount(){
