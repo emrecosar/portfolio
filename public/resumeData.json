@@ -10,7 +10,7 @@
     "address":{
       "city":"Amsterdam"
     },
-    "resumedownload":"//github.com/emrecosar/portfolio/raw/master/public/pdf/EmreCosar.pdf",
+    "resumedownload":"/pdf/EmreCosar.pdf",
     "social":[
       {
         "name":"github",
