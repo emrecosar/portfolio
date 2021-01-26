@@ -1,3 +1,5 @@
+![CodeQL](https://github.com/emrecosar/portfolio/workflows/CodeQL/badge.svg)
+
 ## Emre Cosar Portfolio
 
 Source code of [emrecosar.com](https://emrecosar.com)
