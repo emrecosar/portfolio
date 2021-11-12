@@ -4,13 +4,13 @@
     "occupation":"Software Engineer",
     "description":"",
     "image":"profile-picture.jpg",
-    "bio": "Interests in playing and creating better software solutions. Hands on experience about Spring Boot, React and AWS with the TDD approach using CI/CD. Started to career as full-stack web engineer and mobile(Android and iOS ) engineer then now go on as backend engineer. Strong and eager about Java and JavaScript. Clean coder, open-source committer and enjoys fork&try projects! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
+    "bio": "Interests in creating software solutions. Hands-on experience about MicroServices, Cloud environments and DevOps. Started as full-stack web engineer, mobile(Android and iOS ) engineer and now developing himself as full stack engineer. Strong and eager about Java, JavaScript and Terraform. Clean coder, open-source committer and enjoys fork&try projects! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
     "joy": "Music is everything!",
     "email": "emrecosarr@gmail.com",
     "address":{
       "city":"Amsterdam"
     },
-    "resumedownload":"//github.com/emrecosar/portfolio/raw/master/public/pdf/EmreCosar.pdf",
+    "resumedownload":"/pdf/EmreCosar.pdf",
     "social":[
       {
         "name":"github",
@@ -46,7 +46,7 @@
         "location":"Amsterdam",
         "title":"Senior Software Engineer",
         "years":"November 2018 - Present",
-        "description":"As a backend developer, creating software solutions rely on micro-service architecture using Spring Boot and React with CI/CD pipelines running on AWS environment. Working with self-managable teams and devops culture. Excellent communication withing teams in and outside of the company."
+        "description":"As a backend developer, creating software solutions rely on microservice architecture mostly using Java, React with CI/CD pipelines running on AWS cloud environment with Terraform managed resources. Working with self-managable teams and creating DevOps culture. Excellent communication withing teams in and outside of the company."
       },
       {
         "company":"Yapi Kredi Technology",
