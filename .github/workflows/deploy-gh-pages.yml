@@ -1,0 +1,27 @@
+name: Build and Deploy
+# Controls when the action will run. Workflow runs when manually triggered using the UI or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      reason:
+        # Friendly description to be shown in the UI
+        description: 'Why do you deploy?'
+        # Default value if no value is explicitly provided
+        default: 'update website to latest state'
+        # Input has to be provided for the workflow to run
+        required: true
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          npm install
+          npm run build
+
+      - name: Deploy 🚀
+        run: npm deploy

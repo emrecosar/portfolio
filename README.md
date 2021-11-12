@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * npx install -> set up environment
 * npm start -> to run locally
 * npm run deploy -> to deploy to your github pages (configure package.json's homepage attribute and SEO/DNS related URLs)
+Or, deploy the application to the website via manually triggered github action.
 
 #### First Impression From
 <a href="https://github.com/tbakerx/react-resume-template">Tim Baker's react template project</a>
