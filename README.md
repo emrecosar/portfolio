@@ -1,4 +1,4 @@
-![CodeQL](https://github.com/emrecosar/portfolio/workflows/CodeQL/badge.svg)
+![CodeQL](https://github.com/emrecosar/portfolio/workflows/CodeQL/badge.svg) [![Build and Deploy](https://github.com/emrecosar/portfolio/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://github.com/emrecosar/portfolio/actions/workflows/deploy-gh-pages.yml)
 
 ## Emre Cosar Portfolio
 
