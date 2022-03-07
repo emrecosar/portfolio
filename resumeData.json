@@ -44,8 +44,15 @@
       {
         "company":"Elsevier",
         "location":"Amsterdam",
+        "title":"Software Engineering Lead",
+        "years":"February 2022 - Present",
+        "description":"As a software engineering lead in Funding Domain, responsible from an agile development team. The team process big data, transform and normalise it to the end-user and then showcase other Elsevier products like Scopus, Scival, Pure and etc. Responsible for product delivery, technical skillset, personal development and vision to improve and lead the team and product."
+      },
+      {
+        "company":"Elsevier",
+        "location":"Amsterdam",
         "title":"Senior Software Engineer",
-        "years":"November 2018 - Present",
+        "years":"November 2018 - February 2022",
         "description":"As a backend developer, creating software solutions rely on microservice architecture mostly using Java, React with CI/CD pipelines running on AWS cloud environment with Terraform managed resources. Working with self-managable teams and creating DevOps culture. Excellent communication withing teams in and outside of the company."
       },
       {
