@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Emre Cosar",
-    "occupation":"Software Engineer",
+    "occupation":"Software Engineering Manager",
     "description":"",
     "image":"profile-picture.jpg",
-    "bio": "Interests in creating software solutions. Hands-on experience about Microservices, Cloud environments and DevOps. Started as full-stack web engineer, mobile(Android and iOS ) engineer and now developing himself as Software Engineerin Lead. Strong and eager about Java, JavaScript and Terraform. Clean coder, open-source committer and enjoys fork&try projects! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.",
-    "joy": "Music is everything!",
+    "bio": "Interests in creating software solutions. Hands-on experience about Microservices, Cloud environments and DevOps. Started as full-stack engineer, later got into mobile development world, DevOps with microservice architectures and then focusing the careed as Software Engineerin Lead/Manager on the management roles with multiple companies. Strong and eager about personal development with open-minded conversations and approachability. Clean coder, open-source committer and enjoys fork&try projects! Loves to craft solutions that makes a difference or add value to people's lifes. Feel free to reach out to me!",
+    "joy": "Lose yourself to Music!",
     "email": "emrecosarr@gmail.com",
     "address":{
       "city":"Amsterdam"
@@ -42,10 +42,17 @@
   "resume":{
     "work":[
       {
+        "company":"Booking.com",
+        "location":"Amsterdam",
+        "title":"Engineering Manager",
+        "years":"January 2023 - Present",
+        "description":"Engineering Manager in FinTech Domain"
+      },
+      {
         "company":"Elsevier",
         "location":"Amsterdam",
         "title":"Software Engineering Lead",
-        "years":"February 2022 - Present",
+        "years":"February 2022 - December 2022",
         "description":"As a software engineering lead in Funding Domain, responsible from an agile development team. The team process big data, transform and normalise it to the end-user and then showcase other Elsevier products like Scopus, Scival, Pure and etc. Responsible for product delivery, technical skillset, personal development and vision to improve and lead the team and product."
       },
       {
