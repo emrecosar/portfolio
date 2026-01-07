@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Emre Cosar",
-    "occupation":"Software Engineering Manager",
+    "occupation":"Software Engineering Lead",
     "description":"",
     "image":"profile-picture.jpg",
-    "bio": "Interests in creating software solutions. Hands-on experience about Microservices, Cloud environments and DevOps. Started as full-stack engineer, later got into mobile development world, DevOps with microservice architectures and then focusing the careed as Software Engineerin Lead/Manager on the management roles with multiple companies. Strong and eager about personal development with open-minded conversations and approachability. Clean coder, open-source committer and enjoys fork&try projects! Loves to craft solutions that makes a difference or add value to people's lifes. Feel free to reach out to me!",
-    "joy": "Lose yourself to Music!",
+    "bio": "Leading engineering teams with data-driven leadership and a people-first mindset. I leverage metrics to streamline delivery, creating the space to mentor engineers towards technical excellence. I believe in open communication and building solutions that make a genuine difference. Started as a full-stack engineer in bank systems. Later experienced mobile development and DevOps with microservice architectures. Then move to Software Engineerin Lead/Manager positions within multiple companies. Open and eager about two-ways personal development conversation. Clean coder, open-source committer! 'Data & Transparency' is the king!",
+    "joy": "Music, Books and Ride!",
     "email": "emrecosarr@gmail.com",
     "address":{
       "city":"Amsterdam"
@@ -46,7 +46,7 @@
         "location":"Amsterdam",
         "title":"Engineering Manager",
         "years":"January 2023 - Present",
-        "description":"Engineering Manager in FinTech Domain"
+        "description":"Leading two high-performing engineering teams within the FinTech Business Unit, focused on building innovative financial solutions for global partners and driving operational excellence. I bridge the gap between technical strategy and business objectives to deliver scalable, secure systems. My teams hold end-to-end ownership of the systems responsible for partner invoice corrections, focusing on modernizing legacy infrastructure and implementing event-driven architectures to ensure seamless integration across the internal ecosystem. By combining a data-driven leadership style with a people-first mindset, I foster a culture of psychological safety and mentorship. My mission is to streamline delivery through metrics while creating the space for engineers to achieve technical excellence and make a genuine impact on the global travel experience."
       },
       {
         "company":"Elsevier",
@@ -60,24 +60,24 @@
         "location":"Amsterdam",
         "title":"Senior Software Engineer",
         "years":"November 2018 - February 2022",
-        "description":"As a backend developer, creating software solutions rely on microservice architecture mostly using Java, React with CI/CD pipelines running on AWS cloud environment with Terraform managed resources. Working with self-managable teams and creating DevOps culture. Excellent communication withing teams in and outside of the company."
+        "description":"Joined to Mendeley Data(now Digital Commons) development team to deliver more Institutional Portfolio features to the users while maintaining and replatforming legacy systems. Creating software solutions rely on microservice architecture mostly using Java, React with CI/CD pipelines running on AWS cloud environment with Terraform managed resources. Working with self-managable teams and creating DevOps culture. Excellent communication withing teams in and outside of the company."
       },
       {
         "company":"Yapi Kredi Technology",
         "location":"Istanbul",
         "title":"Senior Software Engineer",
         "years":"December 2016 - November 2018",
-        "description":"Worked on mobile banking application both native Android and iOS clients, has eye-verify login option first in banking apps, and APIs. Then created micro services architectures with Spring Boot and Spring Cloud for core banking domains. Using TDD approach and cloud contract tests. Sticks with clean code principles."
+        "description":"In the mobile banking application team, contributed to both native Android and iOS applications and the backend service. After the release, moved to the infrastructure core team to create micro services architectures with Spring Boot and Spring Cloud for core banking domains like Tax and Billing. Using TDD approach and cloud contract tests. Sticks with clean code principles."
       },
       {
-        "company":"Garanti Technology",
+        "company":"Garanti BBVA Technology",
         "location":"Istanbul",
         "title":"Senior Software Engineer",
         "years":"July 2012 - December 2016",
-        "description":"As a full stack developer inside Web Technologies & Social Media Applications Department, maintained bank's public site and made a mobile version of it. Created Twitter and Facebook web applications that bank's customers use and enrolled campaigns over Facebook and twitter. Also was a part of team that created iGaranti(now as GarantiOne) web, facebook and mobile applications. Developed notification based Google Glass application, first in Turkey, for iGaranti mobile application. Created new products and platforms for our customers to touch in so many ways. In every aspects of application development processes; designing the architecture, creating web and backend level."
+        "description":"As a full stack developer inside Web Technologies & Social Media Applications Department, maintained bank's public website and developed a adaptive mobile version of it. Created Twitter and Facebook web applications that bank's customers use and enrolled campaigns using Facebook pages and Twitter posts. Also part of team that developed the iGaranti(and then GarantiOne) web, facebook and mobile applications. Developed notification based Google Glass application with one of my peer, was first in Turkey, for iGaranti mobile application. Created new products and platforms for our customers to touch in so many ways. In every aspects of application development processes; designing the architecture, creating web and backend level."
       },
       {
-        "company":"NETZ Sp. o.o.",
+        "company":"NETZ Sp. O.O.",
         "location":"Gdansk",
         "title":"Software Engineer Intern",
         "years":"July 2011 - October 2011",
