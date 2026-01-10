@@ -25,10 +25,14 @@
 
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="css/default.css">
-    <link rel="stylesheet" href="css/layout.css">
-    <link rel="stylesheet" href="css/media-queries.css">
-    
+    <link rel="preload" href="images/header-background.webp" as="image">
+    <link rel="stylesheet" href="css/default.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/layout.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/media-queries.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/fonts.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/fontello/css/fontello.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" media="print" onload="this.media='all'">
+
     <link rel="canonical" href="https://emrecosar.com"/>
 
     <title>Emre Cosar</title>

@@ -9,7 +9,7 @@ class Header extends Component {
          var description= this.props.data.description;
          var city= this.props.data.address.city;
          var networks= this.props.data.social.map(function(network){
-         return <li key={network.name}><a href={network.url} target="_blank" rel="noopener noreferrer"><i className={network.className}></i></a></li>
+         return <li key={network.name}><a href={network.url} target="_blank" rel="noopener noreferrer" aria-label={network.name}><i className={network.className}></i></a></li>
          })
       }
 
@@ -31,11 +31,11 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">{name}</h1>
-                  <h3>
+                  <h2>
                      <span> {occupation} {city} </span> 
                      <br /> 
                      <span> {description} </span> 
-                  </h3>
+                  </h2>
                   <hr />
                   <ul className="social">
                      {networks}
@@ -44,7 +44,7 @@ class Header extends Component {
             </div>
 
             <p className="scrolldown">
-               <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+               <a className="smoothscroll" href="#about" aria-label="scroll-down"><i className="icon-down-circle"></i></a>
             </p>
 
          </header>
