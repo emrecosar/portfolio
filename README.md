@@ -5,10 +5,10 @@
 Source code of [emrecosar.com](https://emrecosar.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-* git clone
-* npx install -> set up environment
-* npm start -> to run locally
-* npm run deploy -> to deploy to your github pages (configure package.json's homepage attribute and SEO/DNS related URLs)
+* `git clone git@github.com:emrecosar/portfolio.git`
+* `npx install` to install dependencies
+* `npm start` -> to run locally
+* `npm run deploy` to deploy to your github pages (configure package.json's homepage attribute and SEO/DNS related URLs)
 Or, deploy the application to the website via manually triggered github action.
 
 #### First Impression From
