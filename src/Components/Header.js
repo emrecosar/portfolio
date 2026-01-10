@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-scroll';
 
 class Header extends Component {
    render() {
@@ -22,9 +23,9 @@ class Header extends Component {
                <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
                <ul id="nav" className="nav">
-                  <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-                  <li><a className="smoothscroll" href="#about">About</a></li>
-                  <li><a className="smoothscroll" href="#resume">Resume</a></li>
+                  <li className="current"><Link to="home" spy={true} smooth={true} duration={500}>Home</Link></li>
+                  <li><Link to="about" spy={true} smooth={true} duration={500}>About</Link></li>
+                  <li><Link to="resume" spy={true} smooth={true} duration={500}>Resume</Link></li>
                </ul>
             </nav>
 
@@ -44,7 +45,7 @@ class Header extends Component {
             </div>
 
             <p className="scrolldown">
-               <a className="smoothscroll" href="#about" aria-label="scroll-down"><i className="icon-down-circle"></i></a>
+               <Link to="about" spy={true} smooth={true} duration={500}><i className="icon-down-circle"></i></Link>
             </p>
 
          </header>
