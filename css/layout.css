@@ -60,15 +60,15 @@ header .banner-text h1 {
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
-header .banner-text h3 {
+header .banner-text h2 {
    font: 18px/1.9em 'opensans-bold', sans-serif;
-   color: #CECECE;
+   color: #fff;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
-header .banner-text h3 span,
-header .banner-text h3 a {
+header .banner-text h2 span,
+header .banner-text h2 a {
    color: #fff;
 }
 header .banner-text hr {
@@ -182,7 +182,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #3a3c44;
+   background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,7 +198,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #a5a5a5;
+   color: #ccc;
 }
 #about .profile-pic {
    position: relative;
@@ -214,11 +214,11 @@ ul#nav li.current a { color: #F06000; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #0094a8;
+   background: #444;
 }
 #about .download .button:hover {
    background: #fff;
-   color: #0094a8;
+   color: #2B2B2B;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -289,8 +289,8 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #fff; }
-footer a:hover, footer a:focus { color: #0094a8; }
+footer a, footer a:visited { color: #525252; }
+footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
